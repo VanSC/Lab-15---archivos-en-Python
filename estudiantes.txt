@@ -1,0 +1,5 @@
+Nombre: Vanessa
+Nota 1: 17
+Nota 2: 17
+Promedio: 17.0
+Aprobado: True

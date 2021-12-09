@@ -1,0 +1,7 @@
+1	Sillon	400
+1	Escritorio	350
+1	Stand	250
+Fecha: 08/12/2021
+SubTotal: 1003
+IGV: 180.54
+Total costo: 1183.54

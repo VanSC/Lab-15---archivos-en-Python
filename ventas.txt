@@ -1,0 +1,25 @@
+2	arroz	3
+2	arroz	4
+2	azucar	3
+1	tv	4000
+1	bicicleta	300
+1	arroz	3
+2	PAN	3
+Fecha: 08/12/2021
+Subtotal: 6
+IGV: 1.08
+Total: 1.08
+3	PAN	1
+3	ARROZ	2
+2	LILI	3
+Fecha: 08/12/2021
+Subtotal: 15
+IGV: 2.6999999999999997
+Total: 2.6999999999999997
+2	pan	1
+2	rei	4
+2	fdf	4
+Fecha: 08/12/2021
+Subtotal: 18
+IGV: 3.2399999999999998
+Total: 3.2399999999999998
